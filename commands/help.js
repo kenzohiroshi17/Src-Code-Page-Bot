@@ -45,7 +45,7 @@ module.exports = {
 ╭─╼━━━━━━━━╾─╮
 ${commands.join('\n')}
 ╰─━━━━━━━━━╾─╯
-Chat -help [name] 
+Chat help [name] 
 to see command details.
 ━━━━━━━━━━━━━━`;
 
